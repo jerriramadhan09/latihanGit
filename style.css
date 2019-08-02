@@ -1,0 +1,47 @@
+		body{
+			font-size:16px;
+			background-image: url("Ktm390.jpg");
+			
+		}
+		p {
+			color: white;
+			background: #ffad33;
+			border: 3px solid grey;
+			text-align: center;
+			font-style: oblique;
+		}
+		h1	{
+			color: orange;
+			text-align: center;
+			text-decoration: underline;
+			font-family: 'Franklin Gothiv Medium','Arial Narrow',Arial,sans-serif;
+			font-size: 1,6em;
+			transition: all5s;
+		}
+		
+		h3{
+			color:Orange;
+		}	
+			
+		
+		#logo{
+			color: orange;
+			
+			display: inline-block;
+			float : left;
+		}
+		nav {
+			color: white;
+			display: inline;
+			float : right;
+		}
+		#article-list{
+			border:5px  ;
+			padding:100px ;
+			
+		}
+		ul li {
+			color : white;
+			font-size:14px
+			
+		}
